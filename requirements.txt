@@ -4,6 +4,7 @@ matplotlib
 ipython
 jupyter
 jupyterlab
+ipykernel
 pandas
 sympy
 nose
