@@ -1,11 +1,16 @@
 # HW0: Environment setup for EECS 331 @ NU
 
-In this assignment, the goals are:
+In this initial assignment, the goals are:
 
 1. to set up a working programming environment using either conda or virtualenv environments.
 2. to get acclimated to the "pull, commit, push" development cycle for git. All programming assignments in this course will be submitted via Github (all free-response quesitons will be submitted via Canvas).
 3. to get acclimated with Jupyter Lab which is required for all assignments in this course.
 
+**Please read through readme.md carefully**
+
+**After setting up the assignment environment, please look into the problems.md and after into the Jupyter notebook**
+
+**At the end, prepare a small report on Overleaf and submit the pdf to Canvas. Don't forget to PUSH your repository**
 
 ## Anaconda/Miniconda Environment Setup (Python Environment)
 
