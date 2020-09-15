@@ -67,7 +67,31 @@ For HW0 this might look like:``git clone fall20200-hw0-installation-jdoe95``
 Once cloned, `cd` into the cloned repository. Every assignment has some files that you edit to complete it.
 The problems.md gives very short instructions on what do do, so please read this first. However the most important part is the assignment.ipynb which is the Jupyter Notebook which will guide you through the complete homework.
 
-We will play around with GIT a little bit more throughout the installation assignment. The exact instructions on what to do and what to report are written in the problems.md and when you open the jupyter notebook.
+## Github development cycle
+
+All assignments are submitted via Github in this class. Once you've accepted this assignment via the Github classroom link, it made a repository of the form `https://github.com/nucs331/HW-LINK-\[your github username\]`. In the first part of this README, you cloned the repository to your local machine to develop on.
+
+To make changes, simply open or create some file in your local version. If you created a file, you have to do:
+
+``git add [new_file_name]`` 
+you can also use
+``git add .``
+to add all changes in your repository, however, make sure not to include large files etc. or unneccesary files (like OS specific files) in there. To avoid pushing these files you can edit the .gitignore.
+
+to make `git` track the file. If you edited an already tracked file, you don't have to add it. Then:
+
+``git commit -m [commit_message]``
+
+will commit the change. `commit_message` is something that describes the type of change you made. Good commit messages are descriptive, easy to understand, and correspond well with the actual changes made. Finally:
+
+```
+git pull origin master
+git push origin master
+```
+
+will pull the remote code and then push the commit to the repository on Github. 
+
+**The code that is on the Github server (not the version on your local machine) is the code we will evaluate if you pass the assignment or not. If you don't push a commit, we won't see it and we won't grade it **
 
 ## Jupyter Lab
 
@@ -77,3 +101,16 @@ In order to start Jupyter Lab, the easiest way is to `cd` into the specific home
 `jupyter lab`
 
 Make sure thast you have activated the conda environment of `NUCS331`, otherwise the packages might not be visible to you.
+
+
+# How to submit your work
+
+CODE: The code that is on the Github server (not the version on your local machine) as of the deadline is the code we evaluate your assignment on. If you don't push a commit, we won't see it and we won't grade it.
+
+Writing: For your writing task, **you must submit a .pdf file on Canvas.** which is generated through the Latex template. We will grade the last thing you put on Canvas by the deadline. You don't get credit for having the written report only in your code repository on github. 
+
+## Questions? Problems? Issues?
+
+Please make sure first that something in this document doesn't already address your issue! If you still have problems, simply write on Campuswire and ask. Someone from the teaching staff will get back to you through there!
+
+That's all! The workflow for every assignment in this class will work something like this.
