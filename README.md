@@ -5,6 +5,7 @@ In this initial assignment, the goals are:
 1. to set up a working programming environment using either conda or virtualenv environments.
 2. to get acclimated to the "pull, commit, push" development cycle for git. All programming assignments in this course will be submitted via Github (all free-response quesitons will be submitted via Canvas).
 3. to get acclimated with Jupyter Lab which is required for all assignments in this course.
+4. To get acclimated with Latex and the homework template which will be used throughout the course.
 
 **Please read through readme.md carefully**
 
