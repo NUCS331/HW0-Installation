@@ -1,27 +1,6 @@
 import numpy as np
 from scipy import linalg
 
-savedir = 'Output'
-
-def save_fig_as_png(figtitle):
-    '''
-    Saves the current figure into the output folder
-    The figtitle should not contain the ".png".
-    This helper function shoudl be easy to use and should help you create the figures 
-    needed for the report
-    
-    The directory where images are saved are taken from savedir in "Code.py" 
-    and should be included in this function.
-    
-    Hint: The plt.gcf() might come in handy
-    Hint 2: read about this to crop white borders
-    https://stackoverflow.com/questions/8218608/scipy-savefig-without-frames-axes-only-content
-    
-    '''
-
-    raise NotImplementedError
-
-    
 
 def sum_numbers(x, y):
     """
