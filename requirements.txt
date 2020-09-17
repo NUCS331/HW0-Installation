@@ -10,7 +10,7 @@ pandas
 sympy
 nose
 opencv-python
-pil
+pillow
 pytest
 ipytest
 glob3
