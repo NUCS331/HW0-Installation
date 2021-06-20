@@ -98,7 +98,9 @@ will pull the remote code and then push the commit to the repository on Github.
 ## Jupyter Lab
 
 We installed our required libraries from the requirements.txt for our environment 'NUCS331'.
+
 Make sure that you have activated the conda environment of `NUCS331`; otherwise the packages might not be visible to you:
+
 `conda activate NUCS331`
 
 We will be using Jupyter Lab throughout the quarter.
@@ -106,25 +108,29 @@ Note that you can also use Jupyter Notebook and a different IDE for completing t
 However, we highly recommend sticking with Jupyter Lab since it provides the complete IDE experience since we have designed this course this way.
 
 To start Jupyter Lab, the easiest way is to `cd` into the specific homework assignment (here it will be in the directory where assignment0.ipynb is present) and simply enter:
+
 `jupyter lab`
 
 If some problem persists after this command, the jupyter libraries might not have been installed correctly.
 In that case, just run these commands and any missing components will be installed:
-`pip install ipykernel`
-`pip install jupyter`
-`pip install jupyterlab`
 
-Once you can open jupyter lab, try a simple import and see if there is no compilation issue once you execute it (using ctrl + Enter)
+```
+pip install ipykernel
+pip install jupyter
+pip install jupyterlab
+```
+
+Once you can open jupyter lab, try a simple import and see if there is no compilation issue once you execute it (using ctrl + Enter). Example:
+
 `import numpy as np`
 
-To use all the packages and libraries we installed in our NUCS331 conda environment, we need to create a corresponding Jupyter "environment":
-(Make sure that you have activated the conda environment of `NUCS331`)
+To use all the packages and libraries we installed in our NUCS331 conda environment, we need to create a corresponding Jupyter "environment".
+(Make sure that you have activated the conda environment of `NUCS331`):
+
 `python -m ipykernel install --name=NUCS331`
 
 To check if this was successful:
-Go to Jupyter Lab (or notebook) -> Go To "Change Kernel" option -> you should now see "NUCS331" as an option
-Select that and you are good to start your assignment!
-
+Go to Jupyter Lab (or notebook) -> Go To "Change Kernel" option -> you should now see "NUCS331" as an option. Select that and you are good to start your assignment!
 
 
 # How to submit your work
