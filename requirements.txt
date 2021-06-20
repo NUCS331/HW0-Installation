@@ -13,5 +13,5 @@ opencv-python
 pillow
 pytest
 ipytest
-glob3
+glob2
 rawpy
