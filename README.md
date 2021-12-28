@@ -5,13 +5,13 @@ In this initial assignment, the goals are:
 1. to set up a working programming environment using either conda environments.
 2. to get acclimated to the "pull, commit, push" development cycle for git. This course's programming assignments will be submitted via Github (all free-response questions will be submitted via Canvas).
 3. to get acclimated with Jupyter Lab, which is required for all assignments in this course.
-4. To get accommodated with Latex and the homework template, which will be used throughout the quarter.
+4. to get accommodated with Latex and the homework template, which will be used throughout the quarter.
 
 **Please read through readme.md carefully**
 
 **After setting up the assignment environment, please look into the problems.md and after into the Jupyter notebook**
 
-**At the end, prepare a small report on Overleaf and submit the pdf to Canvas. Don't forget to PUSH your repository**
+**At the end, prepare a small report on Overleaf/Word and submit the pdf to Canvas. Don't forget to PUSH your repository**
 
 ## Anaconda/Miniconda Environment Setup (Python Environment)
 
@@ -132,6 +132,40 @@ To use all the packages and libraries we installed in our NUCS331 conda environm
 To check if this was successful:
 Go to Jupyter Lab (or notebook) -> Go To "Change Kernel" option -> you should now see "NUCS331" as an option. Select that and you are good to start your assignment!
 
+Each assignment will consist of a coding and writing task. In the initial homework, the coding and writing tasks are straightforward. They should help you get started with everything.
+
+
+# Coding Task
+
+1. Open the Jupyter Notebook (*.ipynb)
+2. Implement the missing functions ( that show a `NotImplementedError` when running) in the `src` folder as indicated inside the jupyter notebook
+3. Add, commit, and push your implementations to your GitHub repository. 
+4. Ensure that the commits are updated on your GitHub repository **on Time before the due date**. Graders have access to your commit history and will judge according to this. The graders will check if you have an implementation in your repository, and if you fail this, this will count as a direct fail.
+
+#  Writing Task
+
+We have provided the option to submit a PDF report created using either LaTeX or Word. If you want to get familiar with LaTeX, this might be a good opportunity to learn but feel free to choose any format.
+
+Please refer to the report template for the expected content and the guidelines. The questions to be answered will be at the end of the Jupyter Notebook for each homework.
+
+## Option 1: Latex Report
+
+Submit a PDF-file created using the Overleaf report template we provide to you. Open now the overleaf template from here and create your own copy to start your report for homework 0.
+
+Latex is not hard, however, if you've never used Latex before, it can be a bit overwhelming. It is a very different experience to Microsoft Word and more like writing HTML. Here are a few links that might help you get started if you are struggling with it:
+1. https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+2. http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf
+
+**First**, please fill out all the information on the top of the document. This means you have to include your name, e-mail address, netid, GitHub name, and the weblink to *your* assignment repository on GitHub. You'll have to do this for every homework throughout the quarter. Failing doing so will lead to immediate failure of the assignment.
+
+In general, all scientific papers are written in a very technical style. This means there is an abstract, an introduction, methods, a result, and a conclusion section. Throughout this quarter, we are trying to adapt the technical paper writing style for all reports. 
+
+Luckily, Latex allows you to implement and write these sections without ever worrying about your document's design since Latex is doing it all for you. To learn Latex, you will have to generate a small example PDF-report on the topic of *Computational Photography*.
+
+
+## Option 2: Microsoft Word Report
+
+Submit a PDF-file created using the MS Word report template provided. Open the template from here and create your own copy to start your report for homework 0.
 
 # How to submit your work
 
