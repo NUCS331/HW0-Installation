@@ -150,7 +150,7 @@ Please refer to the report template for the expected content and the guidelines.
 
 ## Option 1: Latex Report
 
-Submit a PDF-file created using the Overleaf report template we provide to you. Open now the overleaf template from here and create your own copy to start your report for homework 0.
+Submit a PDF-file created using the Overleaf report template we provide to you. Open now the overleaf template from [here](https://www.overleaf.com/read/ybgqzfrjkzns) and [create your own copy](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project) to start your report for homework 0.
 
 Latex is not hard, however, if you've never used Latex before, it can be a bit overwhelming. It is a very different experience to Microsoft Word and more like writing HTML. Here are a few links that might help you get started if you are struggling with it:
 1. https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
