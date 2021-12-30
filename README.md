@@ -5,7 +5,7 @@ In this initial assignment, the goals are:
 1. to set up a working programming environment using either conda environments.
 2. to get acclimated to the "pull, commit, push" development cycle for git. This course's programming assignments will be submitted via Github (all free-response questions will be submitted via Canvas).
 3. to get acclimated with Jupyter Lab, which is required for all assignments in this course.
-4. to get accommodated with Latex and the homework template, which will be used throughout the quarter.
+4. to get familiar with Latex (or MS Word) homework template, which will be used throughout the quarter.
 
 **Please read through readme.md carefully**
 
@@ -165,7 +165,7 @@ Luckily, Latex allows you to implement and write these sections without ever wor
 
 ## Option 2: Microsoft Word Report
 
-Submit a PDF-file created using the MS Word report template provided. Open the template from here and create your own copy to start your report for homework 0.
+Submit a PDF-file created using the MS Word report template provided. Download the template from here and create your own copy to start your report for homework 0.
 
 # How to submit your work
 
