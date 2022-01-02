@@ -9,7 +9,7 @@ In this initial assignment, the goals are:
 
 **Please read through readme.md carefully**
 
-**After setting up the assignment environment, please look into the problems.md and after into the Jupyter notebook**
+**After setting up the assignment environment, please look into the Jupyter notebook (*.ipynb)**
 
 **At the end, prepare a small report on Overleaf/Word and submit the pdf to Canvas. Don't forget to PUSH your repository**
 
@@ -64,7 +64,7 @@ Once you've copied the link to your keyboard, enter the following into your comm
 
 ``git clone INSERT-YOUR-LINK-HERE``
 
-For HW0 this might look like:``git clone fall20200-hw0-installation-jdoe95``
+For HW0 this might look like:``git clone winter2022-hw0-installation-individual-jdoe95``
 
 Once cloned, `cd` into the cloned repository. Every assignment has some files that you edit to complete it.
 The problems.md gives concise instructions on what do do, so please read this first. However, the most important part is the assignment.ipynb, the Jupyter Notebook will guide you through complete homework.
