@@ -164,7 +164,7 @@ Luckily, Latex allows you to implement and write these sections without ever wor
 
 
 ## Option 2: Microsoft Word Report
-Submit a PDF-file created using the MS Word report template provided. Download the template from here [template file (.docx)](Winer_2022_NUCS 331_template.docx) and create your own copy to start your report for homework 0.
+Submit a PDF-file created using the MS Word report template provided. Download the template in this repository (Winer_2022_NUCS 331_template.docx) and create your own copy to start your report for homework 0.
 
 # How to submit your work
 
