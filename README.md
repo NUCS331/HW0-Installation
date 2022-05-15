@@ -127,7 +127,7 @@ Once you can open jupyter lab, try a simple import and see if there is no compil
 To use all the packages and libraries we installed in our NUCS331 conda environment, we need to create a corresponding Jupyter "environment".
 (Make sure that you have activated the conda environment of `NUCS331`):
 
-`python -m ipykernel install --name=NUCS331`
+`python -m ipykernel install --name=NUCS331 --user`
 
 To check if this was successful:
 Go to Jupyter Lab (or notebook) -> Go To "Change Kernel" option -> you should now see "NUCS331" as an option. Select that and you are good to start your assignment!
