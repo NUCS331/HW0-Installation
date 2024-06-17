@@ -15,3 +15,4 @@ pytest
 ipytest
 glob2
 rawpy
+pathlib

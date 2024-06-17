@@ -144,11 +144,9 @@ Each assignment will consist of a coding and writing task. In the initial homewo
 
 #  Writing Task
 
-We have provided the option to submit a PDF report created using either LaTeX or Word. If you want to get familiar with LaTeX, this might be a good opportunity to learn but feel free to choose any format.
+We have provided the option to submit a PDF report created using LaTeX (preferrably ovia overleaf). If you want to get familiar with LaTeX, this might be a good opportunity to learn but feel free to choose any format.
 
 Please refer to the report template for the expected content and the guidelines. The questions to be answered will be at the end of the Jupyter Notebook for each homework.
-
-## Option 1: Latex Report
 
 Submit a PDF-file created using the Overleaf report template we provide to you. Open now the overleaf template from [here](https://www.overleaf.com/read/ybgqzfrjkzns) and [create your own copy](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project) to start your report for homework 0.
 
@@ -161,10 +159,6 @@ Latex is not hard, however, if you've never used Latex before, it can be a bit o
 In general, all scientific papers are written in a very technical style. This means there is an abstract, an introduction, methods, a result, and a conclusion section. Throughout this quarter, we are trying to adapt the technical paper writing style for all reports. 
 
 Luckily, Latex allows you to implement and write these sections without ever worrying about your document's design since Latex is doing it all for you. To learn Latex, you will have to generate a small example PDF-report on the topic of *Computational Photography*.
-
-
-## Option 2: Microsoft Word Report
-Submit a PDF-file created using the MS Word report template provided. Download the template in this repository (Winer_2022_NUCS 331_template.docx) and create your own copy to start your report for homework 0.
 
 # How to submit your work
 
