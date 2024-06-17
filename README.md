@@ -5,13 +5,13 @@ In this initial assignment, the goals are:
 1. to set up a working programming environment using either conda environments.
 2. to get acclimated to the "pull, commit, push" development cycle for git. This course's programming assignments will be submitted via Github (all free-response questions will be submitted via Canvas).
 3. to get acclimated with Jupyter Lab, which is required for all assignments in this course.
-4. to get familiar with Latex (or MS Word) homework template, which will be used throughout the quarter.
+4. to get familiar with Latex homework template, which will be used throughout the quarter.
 
 **Please read through readme.md carefully**
 
 **After setting up the assignment environment, please look into the Jupyter notebook (*.ipynb)**
 
-**At the end, prepare a small report on Overleaf/Word and submit the pdf to Canvas. Don't forget to PUSH your repository**
+**At the end, prepare a small report on Overleaf and submit the pdf to Canvas. Don't forget to PUSH your repository**
 
 ## Anaconda/Miniconda Environment Setup (Python Environment)
 
